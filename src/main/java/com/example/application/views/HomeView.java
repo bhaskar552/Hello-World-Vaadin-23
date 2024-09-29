@@ -19,7 +19,7 @@ public class HomeView extends VerticalLayout {
         img.setWidth("200px");
         add(img);
 
-        add(new H2("Hello World!!"));
+        add(new H2("Hello World SkyTrade!!"));
         add(new Paragraph("I'm ready to code and happy to be here 🤗"));
 
         setSizeFull();
